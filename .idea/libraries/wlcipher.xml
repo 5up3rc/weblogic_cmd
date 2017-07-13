@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wlcipher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/wlcipher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

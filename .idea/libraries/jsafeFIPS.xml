@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsafeFIPS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jsafeFIPS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

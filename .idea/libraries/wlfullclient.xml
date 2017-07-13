@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="wlfullclient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/wlfullclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/wlfullclient.jar!/" />
+    </SOURCES>
+  </library>
+</component>
